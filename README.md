@@ -1,9 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+👋+I'm+Igor+😄+)](https://git.io/typing-svg)
 
 ## :bowtie: About me
-Graduate of MEPhI, Nuclear Physics and Technology (Specialist degree 2014, Master's degree 2016, Postgraduate degree 2020). 5+ years experience in the nuclear industry (engineering), 5+ years experience in the agricultural industry (analysis of innovative projects, design and implementation).
-
-I'm just starting my way into data science. I've completed a number of online courses and now I'm looking for a practice in real projects and tasks.
+Graduate of MEPhI, Nuclear Physics and Technology (Specialist degree 2014, Master's degree 2016, Postgraduate degree 2020). 5+ years experience in the nuclear industry (engineering), 7+ years experience in the agricultural industry (analysis of innovative projects, design and implementation).
 
 
 <!---![GitHub User's stars](https://img.shields.io/github/stars/IgorAbalakin?style=social)--->
